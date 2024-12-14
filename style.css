@@ -50,7 +50,10 @@ select {
 .date {
   opacity: 0.7;
 }
-
+.all_cities {
+  font-size: 14px;
+  text-decoration: none;
+}
 footer {
   text-align: center;
   font-size: 18px;
